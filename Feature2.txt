@@ -1,1 +1,3 @@
 Feature2 is being developed.
+
+This was added in BUG-002
