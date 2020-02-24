@@ -2,3 +2,5 @@ This is initial skeleton for POC002 project to test git-flow workflow.
 
 
 Feature 3 -> Second commit.
+
+Feature 3 -> Third commit.
