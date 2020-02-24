@@ -1,3 +1,5 @@
 This is a Feature1 of the new project.
 
 This is another commit of Feature1
+
+This line was added as fix of BUG-001.
