@@ -1,0 +1,1 @@
+This is initial skeleton for POC002 project to test git-flow workflow.
