@@ -1,0 +1,3 @@
+This is a Feature1 of the new project.
+
+This is another commit of Feature1
